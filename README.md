@@ -45,5 +45,4 @@
 ### GitHub Statistics
 [![Amir Karimi GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirkarimistr&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-align='middle'><img src='https://komarev.com/ghpvc/?username=gurr-i&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
-<p align='middle'>
+<img src='https://komarev.com/ghpvc/?username=amirkarimistr&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='140"'></p>
