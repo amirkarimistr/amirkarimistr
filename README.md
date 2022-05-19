@@ -1,8 +1,9 @@
-### Hey there , I'm  Amir Hosein <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there , I'm Amir Hosein <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
 <p align="center">Join Me In Socials!</p>
-  
+
+   
 <a href="https://medium.com/@amirkarimistr/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
@@ -11,13 +12,13 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="">
+<a href="https://stackoverflow.com/users/9689717/amirkarimistr?tab=profile">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
 <a href="https://t.me/amirkarimi21/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a
+</a>
 
 
 </div>
@@ -28,8 +29,9 @@
 - 🌱 I’m currently learning Python and Django
 - 💬 Ask me anything about flutter and dart
 - 🌏 You can find me in social that is mentioned in top
-- 📨 Or for fast way just send me a Mail in amirkarimistr@gmail.com
-- ⚡ Fun fact: I Love 🏀Basketball, :electron:Quantom, 🚀Space and 🎮Dota 2
+- 📨 Or for fast way just send me a Mail in pzahedi1995@gmail.com
+- ⚡ Fun fact: I Love 🏀Basketball, and 🎮Dota 2
+
 
 
 ### Languages & Tools
@@ -43,4 +45,5 @@
 </div>
 
 ### GitHub Statistics
-[![Amir Karimi GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirkarimistr&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Amir Hosein GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirkarimistr&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
